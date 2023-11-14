@@ -1,0 +1,11 @@
+{
+  "Id": "LeaderMod",
+  "DisplayName": "LeaderMod",
+  "Author": "gingerphoenix10",
+  "Version": "$VERSION",
+  "ManagerVersion": "0.22.14.0",
+  "AssemblyName": "LeaderMod.dll",
+  "EntryMethod": "LeaderMod.Startup.Load",
+  "HomePage": "https://example.org",
+  "Repository": "https://github.com/gingerphoenix10/AdofaiLeaderMod"
+}
